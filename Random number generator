@@ -1,0 +1,5 @@
+# Random number generator
+import random # Imports the 'random' module
+
+randomnumber = random.randint(1,100) # Defines a variable with the name 'randomnumber'. The random.randint(1,100) will choose a random number between the (1,100). The (1,100) defines that the minimum number is 1, while the largest number is 100.
+print(randomnumber) # Prints the variable 'randomnumber'
