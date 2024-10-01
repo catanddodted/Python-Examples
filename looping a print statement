@@ -1,0 +1,6 @@
+import time
+
+while True:
+    print("Stolen Kosovo")
+    time.sleep(0.5)
+# you can change 0.5 to whatever you want
